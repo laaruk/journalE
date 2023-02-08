@@ -146,7 +146,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>При броске по таблице Безделушек, результат будет в чате</p><hr /><h3>Книга игрока</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.3V2isuiDLKEOzu54]{Безделушки  (PHB)} </p><h3>Проклятие Страда</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.9I2R31pjG5zkKfHG]{Безделушки готические (CoS)}  </p><h3>Руководство ван Рихтена по Равенлофту</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.OjRzD6nkSUXsHuUu]{Безделушки ужасные (VRGR)}  </p><h3>Чащоба за Ведьминым светом</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.BVrONMhYRPqKTOvK]{Безделушки Страны Фей (WBW)} </p><h3>Безделушки из Эберрона</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.LuHK6sfrH2Evhozs]{Безделушки из Аргонессена (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.jVafI6uMDhnl8gsI]{Безделушки из Аэренала (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.vp7w16jzsvX59ln4]{Безделушки из Земель Скорби (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.5MENBIuFm1WdksBO]{Безделушки из Ксен'дрика (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.EVNJtfneK2yOS4QS]{Безделушки из Сарлоны (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.oxNQoYotKiCeHL6m]{Безделушки из Фростфелла и Эвериса (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.Qn3NygL7yq5iD6Qb]{Безделушки из Хайбера (ERLW)}</p>",
+        "content": "<p>При броске по таблице Безделушек, результат будет в чате</p><hr /><h3>Книга игрока</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.3V2isuiDLKEOzu54]{Безделушки (PHB)}</p><h3>Проклятие Страда</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.9I2R31pjG5zkKfHG]{Безделушки готические (CoS)}</p><h3>Руководство ван Рихтена по Равенлофту</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.OjRzD6nkSUXsHuUu]{Безделушки ужасные (VRGR)}</p><h3>Чащоба за Ведьминым светом</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.BVrONMhYRPqKTOvK]{Безделушки Страны Фей (WBW)}</p><h3>Безделушки из Эберрона</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.LuHK6sfrH2Evhozs]{Безделушки из Аргонессена (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.jVafI6uMDhnl8gsI]{Безделушки из Аэренала (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.vp7w16jzsvX59ln4]{Безделушки из Земель Скорби (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.5MENBIuFm1WdksBO]{Безделушки из Ксен'дрика (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.EVNJtfneK2yOS4QS]{Безделушки из Сарлоны (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.oxNQoYotKiCeHL6m]{Безделушки из Фростфелла и Эвериса (ERLW)}</p><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.Qn3NygL7yq5iD6Qb]{Безделушки из Хайбера (ERLW)}</p><h3>Безделушки из Долины Ледяного Ветра</h3><p>@UUID[Compendium.laaru-dnd5-hw.tables-extra.746WbvDuyKiRF8xC]{Безделушки долины Ледяного Ветра (IDRotF)}</p>",
         "markdown": ""
       },
       "video": {
@@ -196,10 +196,10 @@
       "sourceId": "JournalEntry.X0rqakUz9f53vLwv"
     },
     "exportSource": {
-      "world": "primer",
+      "world": "novaya-sistema",
       "system": "dnd5e",
       "coreVersion": "10.291",
-      "systemVersion": "2.1.2"
+      "systemVersion": "2.1.4"
     }
   },
   "_stats": {
@@ -207,7 +207,7 @@
     "systemVersion": "2.1.2",
     "coreVersion": "10.291",
     "createdTime": 1671565169615,
-    "modifiedTime": 1674193392795,
-    "lastModifiedBy": "Of7kZZAIjeB6NA5z"
+    "modifiedTime": 1674492534159,
+    "lastModifiedBy": "ekSJaSkR4p1sowmM"
   }
 }
