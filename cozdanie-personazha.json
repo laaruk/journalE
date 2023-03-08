@@ -189,6 +189,36 @@
         "default": -1
       },
       "flags": {}
+    },
+    {
+      "sort": 700000,
+      "name": "Легковесный клиент ⚡FLC",
+      "type": "text",
+      "_id": "SEXms9JAJWJsCj6g",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Бывает так, что при игре через ваш любимый браузер с десятками установленных расширений, игра может лагать и/или выдавать разные неприятные глюки. </p><p>Замечательный человек Phenomen создал легковесный клиент для игр в Foundry, скачать его можно по этой ссылке:</p><p><a href=\"https://flc.ruleplaying.com/\">Foundry Lightweight Client </a></p><p>Приложение очень лёгкое и удобное в пользовании. Под скриншотом можно прочитать официальное описание.</p><img src=\"modules/laaru-dnd5-hw/assets/images/pic/flc.webp\" width=\"600\" /><p>Foundry Lightweight Client (⚡FLC) — это минималистичный клиент для подключения к серверам Foundry на компьютерах с ограниченными ресурсами и слабой производительностью.</p><p>Клиент имеет всё необходимое для работы Foundry и ничего больше. Современные браузеры (Google Chrome, Microsoft Edge, Mozilla Firefox) переполнены огромным количеством трэкеров аналитики и опциональных модулей, не говоря уже о пользовательских расширениях. Запуск Foundry в них является не слишком оптимальным решением при ограниченных ресурсах.</p><p>FLC использует сверх-производительный бэкенд на Rust, написанный с нуля фронтенд на Svelte и браузерную оболочку на основе WebView2, которая и так всегда находится запущенной в виде процесса на Windows 10 и 11. Клиент занимает менее 3mb и потребляет на ~50% меньше RAM, чем Chrome с одной запущенной вкладкой Foundry.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.bOsOsDbqfulKICRQ.JournalEntryPage.SEXms9JAJWJsCj6g"
+        }
+      }
     }
   ],
   "flags": {
@@ -207,7 +237,7 @@
     "systemVersion": "2.1.5",
     "coreVersion": "10.291",
     "createdTime": 1671565169615,
-    "modifiedTime": 1677598628390,
+    "modifiedTime": 1677598769615,
     "lastModifiedBy": "ekSJaSkR4p1sowmM"
   }
 }
