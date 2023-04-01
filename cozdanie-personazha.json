@@ -83,7 +83,7 @@
       "flags": {}
     },
     {
-      "sort": 100000,
+      "sort": 0,
       "name": "Создать персонажа просто",
       "type": "text",
       "_id": "0IG5ikYNB3fjP3kD",
@@ -106,7 +106,11 @@
       "ownership": {
         "default": -1
       },
-      "flags": {}
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.Bn3a7yZSDL3Ebyxh.JournalEntryPage.0IG5ikYNB3fjP3kD"
+        }
+      }
     },
     {
       "sort": 500000,
@@ -293,7 +297,7 @@
     "systemVersion": "2.1.5",
     "coreVersion": "10.291",
     "createdTime": 1671565169615,
-    "modifiedTime": 1679239696153,
+    "modifiedTime": 1680341881872,
     "lastModifiedBy": "N5s4uI6OpcSYQoF8"
   }
 }
