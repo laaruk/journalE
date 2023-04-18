@@ -236,7 +236,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.2i2N21llbNsEH8a3]{Акра (Драконорождённый жрец)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.KgwgjLHHyKCUHr7b]{Аот (Человек Друид)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.8GzrFLWcfSp4TObJ]{Бейро (Полуэльф Бард)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.msmpaJW9GdVWBq7V]{Занна (Гном Волшебник)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.NHRhEiaxizGeO6ij]{Квиллатэ (Эльф Следопыт)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.e6TPZjDbesbleqqo]{Краск (Полуорк Паладин)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.SjQoLJfyaWec3kPq]{Меррик (Полурослик Варвар)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.WRSptdcA0oVwVJ17]{Мортос (Тифлинг Чародей)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.f5o6qeukOQthXTK4]{Перрин (Полурослик Монах)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.wvEto37JabdVDigo]{Рисвинн (Дварф Плут)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.yxwoAQvmuAEyZYeQ]{Рэндал (Человек Воин)}</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.swuTV68Qe1PWzuIv]{Сефрис (Полуэльф Колдун)}</p>",
+        "content": "<p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.fW3126eimgeLbvUL]{Акра} (Драконорождённый жрец)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.WTsVFzcYiAxk1hau]{Аот} (Человек Друид)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.iaGF7gRrNAkxsVew]{Бейро} (Полуэльф Бард)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.YJsaA9t3zgVnpk4W]{Занна} (Гном Волшебник)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.RDQSdxwn3PPJPVTq]{Квиллатэ} (Эльф Следопыт)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.x9lbzltmCaAHz62D]{Краск} (Полуорк Паладин)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.Ifkrm6WhfJaaKBuB]{Меррик} (Полурослик Варвар)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.Hug3st7yPFgdMChB]{Мортос} (Тифлинг Чародей)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.fiC6ZQ90HK0d8jvY]{Перрин} (Полурослик Монах)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.qoirSAaSAAnjwniT]{Рисвинн} (Дварф Плут)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.6Zv136bEOD6MeZZk]{Рэндал} (Человек Воин)</p><p>@UUID[Compendium.laaru-dnd5-hw.monsters.AO6wqmIpI3GKnweV]{Сефрис} (Полуэльф Колдун)</p>",
         "markdown": ""
       },
       "video": {
@@ -327,7 +327,7 @@
     "systemVersion": "2.1.5",
     "coreVersion": "10.291",
     "createdTime": 1671565169615,
-    "modifiedTime": 1680641064792,
+    "modifiedTime": 1681815137673,
     "lastModifiedBy": "N5s4uI6OpcSYQoF8"
   }
 }
