@@ -30,12 +30,14 @@
       },
       "flags": {},
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "coreVersion": "11.315",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": 1717663168654,
-        "lastModifiedBy": "2Wyirw5D9dUPIkYu"
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
@@ -64,9 +66,11 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
@@ -98,16 +102,18 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "sort": 0,
+      "sort": 100000,
       "name": "Создать персонажа просто",
       "type": "text",
       "_id": "0IG5ikYNB3fjP3kD",
@@ -136,12 +142,14 @@
         }
       },
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "coreVersion": "11.315",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": 1717739402772,
-        "lastModifiedBy": "2Wyirw5D9dUPIkYu"
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
@@ -170,16 +178,18 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "sort": 600000,
+      "sort": 700000,
       "name": "Безделушки",
       "type": "text",
       "_id": "Y1xiuSKCmOSEWLyX",
@@ -208,50 +218,18 @@
         }
       },
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "sort": 700000,
-      "name": "Заклинания классов",
-      "type": "text",
-      "_id": "JJ2zTbe0q2Z9ljo3",
-      "title": {
-        "show": true,
-        "level": 1
-      },
-      "image": {},
-      "text": {
-        "format": 1,
-        "content": "<h2>Бард</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.0xtNgHu3sNwPjAo2.JournalEntryPage.HcjaBMOp1oibHFJ5]</p></details><h2>Волшебник</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FAQcdHUHuzDnACzv.JournalEntryPage.KGGROgBLfNz9TG07]</p></details><h2>Друид</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.lCYkxlFlkhxLEVLw.JournalEntryPage.d4oEMYrCFjHPK4gQ]</p></details><h2>Жрец</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.eW9JrercncRKlrgN.JournalEntryPage.nf0t6MJ3sozKOb1B]</p></details><h2>Изобретатель</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FiULx6TITbFSZV5H.JournalEntryPage.D6MkCDcLQTznWcyx]</p></details><h2>Колдун</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.DgROefUiG5ksXkfi.JournalEntryPage.Tj4WDlR23lFeqDIB]</p></details><h2>Паладин</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.87CT23KPpDRMdEft.JournalEntryPage.J8Hn1pJXYKmdX0v6]</p></details><h2>Следопыт</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.glQ4JnErUMIbcRm8.JournalEntryPage.UbcWYFZGqLYLqrOv]</p></details><h2>Чародей</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.jj3ixZhtsJUCHuc5.JournalEntryPage.xtC5ODlXTJeA7DK6]</p></details>",
-        "markdown": ""
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "system": {},
-      "ownership": {
-        "default": -1
-      },
-      "flags": {},
-      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
         "systemVersion": "3.3.0",
-        "coreVersion": "11.315",
         "createdTime": null,
-        "modifiedTime": 1721384571631,
-        "lastModifiedBy": "vyWooFykk4nTWT2i"
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 900000,
+      "sort": 1300000,
       "name": "Легковесный клиент для Foundry",
       "type": "text",
       "_id": "SEXms9JAJWJsCj6g",
@@ -280,16 +258,18 @@
         }
       },
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 800000,
+      "sort": 1200000,
       "name": "Готовые персонажи",
       "type": "text",
       "_id": "WrorZxNxwr3V85kE",
@@ -314,16 +294,18 @@
       },
       "flags": {},
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "coreVersion": "11.315",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": 1718901132707,
-        "lastModifiedBy": "IXqDQLPKvtc129vT"
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 1000000,
+      "sort": 1400000,
       "name": "Оптимизация Foundry",
       "type": "text",
       "_id": "5vlELdCvPDLujok0",
@@ -352,16 +334,18 @@
         }
       },
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 750000,
+      "sort": 900000,
       "name": "Снаряжение",
       "type": "text",
       "_id": "z3rfnY5tVhQEAqT6",
@@ -390,16 +374,18 @@
         }
       },
       "_stats": {
-        "systemId": null,
-        "systemVersion": null,
-        "coreVersion": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 550000,
+      "sort": 600000,
       "name": "Черты",
       "type": "text",
       "_id": "lzPMHALVuGhJMtzn",
@@ -424,16 +410,18 @@
       },
       "flags": {},
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "coreVersion": "11.315",
+        "systemVersion": "3.3.0",
         "createdTime": null,
-        "modifiedTime": 1717740085330,
-        "lastModifiedBy": "2Wyirw5D9dUPIkYu"
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
     },
     {
-      "sort": 650000,
+      "sort": 800000,
       "name": "☄️Заклинания с сортировкой",
       "type": "spells",
       "_id": "SPxS1FpFCIGLHVXu",
@@ -1084,31 +1072,115 @@
         }
       },
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.329",
         "systemId": "dnd5e",
         "systemVersion": "3.3.0",
-        "coreVersion": "11.315",
-        "createdTime": 1721378649352,
-        "modifiedTime": 1721384657981,
-        "lastModifiedBy": "vyWooFykk4nTWT2i"
+        "createdTime": null,
+        "modifiedTime": 1721460265844,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
       }
+    },
+    {
+      "sort": 812500,
+      "name": "Заклинания классов 1 часть",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Бард</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.0xtNgHu3sNwPjAo2.JournalEntryPage.HcjaBMOp1oibHFJ5]</p></details><h2>Волшебник</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FAQcdHUHuzDnACzv.JournalEntryPage.KGGROgBLfNz9TG07]</p></details><h2>Друид</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.lCYkxlFlkhxLEVLw.JournalEntryPage.d4oEMYrCFjHPK4gQ]</p></details><h2>Жрец</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.eW9JrercncRKlrgN.JournalEntryPage.nf0t6MJ3sozKOb1B]</p></details><h2>Изобретатель</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.FiULx6TITbFSZV5H.JournalEntryPage.D6MkCDcLQTznWcyx]</p></details><h2>Колдун</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.DgROefUiG5ksXkfi.JournalEntryPage.Tj4WDlR23lFeqDIB]</p></details>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "vyWooFykk4nTWT2i": 3,
+        "4zy4PIao1rGmrizi": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.twIEu1ROZk5LPTRg.JournalEntryPage.JJ2zTbe0q2Z9ljo3"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "JournalEntry.0ezZ1hqhirtYMn4K.JournalEntryPage.k3Bf0Ks1UABf79Ml",
+        "duplicateSource": null,
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
+        "createdTime": 1721460259232,
+        "modifiedTime": 1721460284638,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
+      },
+      "_id": "k3Bf0Ks1UABf79Ml"
+    },
+    {
+      "sort": 825000,
+      "name": "Заклинания классов 2 часть",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Паладин</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.87CT23KPpDRMdEft.JournalEntryPage.J8Hn1pJXYKmdX0v6]</p></details><h2>Следопыт</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.glQ4JnErUMIbcRm8.JournalEntryPage.UbcWYFZGqLYLqrOv]</p></details><h2>Чародей</h2><details><summary><strong>Нажмите сюда для того, чтобы увидеть заклинания</strong></summary><p>@embed[Compendium.laaru-dnd5-hw.intro.JournalEntry.jj3ixZhtsJUCHuc5.JournalEntryPage.xtC5ODlXTJeA7DK6]</p></details>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "vyWooFykk4nTWT2i": 3,
+        "4zy4PIao1rGmrizi": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.twIEu1ROZk5LPTRg.JournalEntryPage.JJ2zTbe0q2Z9ljo3"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "JournalEntry.0ezZ1hqhirtYMn4K.JournalEntryPage.k3Bf0Ks1UABf79Ml",
+        "duplicateSource": "JournalEntry.0ezZ1hqhirtYMn4K.JournalEntryPage.k3Bf0Ks1UABf79Ml",
+        "coreVersion": "12.329",
+        "systemId": "dnd5e",
+        "systemVersion": "3.3.0",
+        "createdTime": 1721460261068,
+        "modifiedTime": 1721460310717,
+        "lastModifiedBy": "4zy4PIao1rGmrizi"
+      },
+      "_id": "t2nKjM34qge3VVOo"
     }
   ],
   "flags": {
     "core": {},
     "exportSource": {
-      "world": "360",
+      "world": "monau",
       "system": "dnd5e",
-      "coreVersion": "11.315",
+      "coreVersion": "12.329",
       "systemVersion": "3.3.0"
     }
   },
   "_stats": {
+    "coreVersion": "12.329",
     "systemId": "dnd5e",
     "systemVersion": "3.3.0",
-    "coreVersion": "11.315",
-    "createdTime": 1671565169615,
-    "modifiedTime": 1721384657981,
-    "lastModifiedBy": "vyWooFykk4nTWT2i"
+    "createdTime": 1721449993763,
+    "modifiedTime": 1721458728245,
+    "lastModifiedBy": "4zy4PIao1rGmrizi"
   },
   "folder": null
 }
