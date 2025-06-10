@@ -34,12 +34,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "11.315",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1724130443877,
-        "lastModifiedBy": "apuA4bC9VUm5kUuh"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -72,12 +74,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "11.315",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1724130521212,
-        "lastModifiedBy": "apuA4bC9VUm5kUuh"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -110,12 +114,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -148,12 +154,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -168,7 +176,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Прегены из <strong>Foundry VTT</strong></h2><p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/ClericDragonborn.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.fW3126eimgeLbvUL]{Акра}</strong>(Драконорождённый жрец)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/DruidStaff.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.WTsVFzcYiAxk1hau]{Аот}</strong> (Человек Друид)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/BardLute.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.iaGF7gRrNAkxsVew]{Бейро}</strong> (Полуэльф Бард)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/WizardTome.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.YJsaA9t3zgVnpk4W]{Занна}</strong> (Гном Волшебник)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/RangerBow.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.RDQSdxwn3PPJPVTq]{Квиллатэ}</strong> (Эльф Следопыт)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/PaladinSword.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.x9lbzltmCaAHz62D]{Краск}</strong> (Полуорк Паладин)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/BarbarianAxe.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.Ifkrm6WhfJaaKBuB]{Меррик}</strong> (Полурослик Варвар)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/SorcererTiefling.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.Hug3st7yPFgdMChB]{Мортос}</strong> (Тифлинг Чародей)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/MonkUnarmed.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.fiC6ZQ90HK0d8jvY]{Перрин}</strong> (Полурослик Монах)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/RogueHalfling.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.qoirSAaSAAnjwniT]{Рисвинн}</strong> (Дварф Плут)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/FighterShield.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.6Zv136bEOD6MeZZk]{Рэндал}</strong> (Человек Воин)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/WarlockStaff.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.AO6wqmIpI3GKnweV]{Сефрис}</strong> (Полуэльф Колдун)</p></article></section></div><h2>Прегены из игры <strong>Baldur's Gate 3</strong></h2><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/astarion.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.5nKxPUxW3ZdPLMdm]{Астарион}</strong> Плут</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/gale.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.ZG6TUsRVppeENc4B]{Гейл}</strong> Волшебник</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/karlach.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.NwpSxUD11ads4Wrp]{Карлах}</strong> Варвар</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/laezel.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.lF8Ck2ko2BGLDYfu]{Лаэзель}</strong> Воин</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/shadowheart.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.WUbq56hkcAx5hFCk]{Шэдоухарт}</strong> Жрец</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"modules/laaru-dnd5-hw/assets/images/MM/wyll.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.dV8MGtlMCsti4Z3S]{Уилл}</strong> Колдун</p></article></section></div>",
+        "content": "<h2>Прегены из <strong>Foundry VTT</strong></h2><p>В фаундри предоставляются готовые персонажи, или так называемые \"прегены\", здесь вы можете посмотреть их, и если есть желание, попросите мастера выдать готового персонажа, вам останется лишь изменить имя (по желанию) и добавить личные качества во вкладке Биография.</p><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/ClericDragonborn.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.fW3126eimgeLbvUL]{Акра}</strong>(Драконорождённый жрец)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/DruidStaff.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.WTsVFzcYiAxk1hau]{Аот}</strong> (Человек Друид)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/BardLute.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.iaGF7gRrNAkxsVew]{Бейро}</strong> (Полуэльф Бард)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/WizardTome.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.YJsaA9t3zgVnpk4W]{Занна}</strong> (Гном Волшебник)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/RangerBow.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.RDQSdxwn3PPJPVTq]{Квиллатэ}</strong> (Эльф Следопыт)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/PaladinSword.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.x9lbzltmCaAHz62D]{Краск}</strong> (Полуорк Паладин)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/BarbarianAxe.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.Ifkrm6WhfJaaKBuB]{Меррик}</strong> (Полурослик Варвар)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/SorcererTiefling.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.Hug3st7yPFgdMChB]{Мортос}</strong> (Тифлинг Чародей)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/MonkUnarmed.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.fiC6ZQ90HK0d8jvY]{Перрин}</strong> (Полурослик Монах)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/RogueHalfling.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.qoirSAaSAAnjwniT]{Рисвинн}</strong> (Дварф Плут)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/FighterShield.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.6Zv136bEOD6MeZZk]{Рэндал}</strong> (Человек Воин)</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/tokens/heroes/WarlockStaff.webp\" class=\"round\" /></figure><article><p><strong>@UUID[Compendium.laaru-dnd5-hw.monsters.AO6wqmIpI3GKnweV]{Сефрис}</strong> (Полуэльф Колдун)</p></article></section></div><h2>Прегены из игры <strong>Baldur's Gate 3</strong></h2><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/astarion.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.5nKxPUxW3ZdPLMdm]{Астарион}</strong> Плут</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/gale.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.ZG6TUsRVppeENc4B]{Гейл}</strong> Волшебник</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/karlach.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.NwpSxUD11ads4Wrp]{Карлах}</strong> Варвар</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/laezel.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.lF8Ck2ko2BGLDYfu]{Лаэзель}</strong> Воин</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/shadowheart.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.WUbq56hkcAx5hFCk]{Шэдоухарт}</strong> Жрец</p></article></section></div><div><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"https://raw.githubusercontent.com/laaruk/images/main/MM/wyll.webp\" /></figure><article><p><strong>@Compendium[laaru-dnd5-hw.monsters.dV8MGtlMCsti4Z3S]{Уилл}</strong> Колдун</p></article></section></div>",
         "markdown": ""
       },
       "video": {
@@ -182,12 +190,14 @@
       },
       "flags": {},
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": 1749559982378,
+        "lastModifiedBy": "yci8TUu4WzmFabLA"
       }
     },
     {
@@ -220,12 +230,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -258,12 +270,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -292,12 +306,14 @@
       },
       "flags": {},
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -952,12 +968,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.329",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.0",
+        "systemVersion": "4.4.3",
         "createdTime": null,
-        "modifiedTime": 1721460265844,
-        "lastModifiedBy": "4zy4PIao1rGmrizi"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       }
     },
     {
@@ -990,12 +1008,14 @@
         }
       },
       "_stats": {
-        "coreVersion": "11.315",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
-        "createdTime": 1721460259232,
-        "modifiedTime": 1724129526954,
-        "lastModifiedBy": "k0yCjqsIbaytFr8Q"
+        "systemVersion": "4.4.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "k3Bf0Ks1UABf79Ml"
     },
@@ -1029,12 +1049,14 @@
         }
       },
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
-        "coreVersion": "11.315",
-        "createdTime": 1724129277256,
-        "modifiedTime": 1730389736866,
-        "lastModifiedBy": "0sDJykO8Qqs2fR3N"
+        "systemVersion": "4.4.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "zQAKRRdjoUmyl5Fn"
     },
@@ -1068,12 +1090,14 @@
         }
       },
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
-        "coreVersion": "11.315",
-        "createdTime": 1724129317190,
-        "modifiedTime": 1724129334906,
-        "lastModifiedBy": "k0yCjqsIbaytFr8Q"
+        "systemVersion": "4.4.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "cUyJsZU0FgHrDiwY"
     },
@@ -1107,12 +1131,14 @@
         }
       },
       "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.343",
         "systemId": "dnd5e",
-        "systemVersion": "3.3.1",
-        "coreVersion": "11.315",
-        "createdTime": 1724129425848,
-        "modifiedTime": 1724129425848,
-        "lastModifiedBy": "k0yCjqsIbaytFr8Q"
+        "systemVersion": "4.4.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "jfemmk2IFwQ1JYqJ"
     }
@@ -1120,19 +1146,19 @@
   "flags": {
     "core": {},
     "exportSource": {
-      "world": "368-volshebnik",
+      "world": "222",
       "system": "dnd5e",
-      "coreVersion": "11.315",
-      "systemVersion": "3.3.1"
+      "coreVersion": "12.343",
+      "systemVersion": "4.4.3"
     }
   },
   "_stats": {
-    "coreVersion": "11.315",
+    "coreVersion": "12.343",
     "systemId": "dnd5e",
-    "systemVersion": "3.3.1",
-    "createdTime": 1721449993763,
-    "modifiedTime": 1730389550000,
-    "lastModifiedBy": "0sDJykO8Qqs2fR3N"
+    "systemVersion": "4.4.3",
+    "createdTime": 1749219358694,
+    "modifiedTime": 1749219358694,
+    "lastModifiedBy": "yci8TUu4WzmFabLA"
   },
   "folder": null
 }
